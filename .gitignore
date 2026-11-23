@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Data en grote bestanden
+data/
+*.csv
+*.pkl
+*.joblib
+
+# Tijdelijke bestanden
+*.log
